@@ -1,0 +1,15 @@
+body{
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 16px;
+color: rgb(33, 87, 71);
+}
+
+.scandinavian{
+width: 564px;
+height: 423px;
+background: url('"../assets/img/scandinavian_sprite.png"') -695px -10px;
+}
+
+div{
+display:block;
+}
